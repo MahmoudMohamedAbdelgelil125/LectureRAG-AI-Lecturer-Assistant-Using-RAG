@@ -6,4 +6,6 @@ pypdf
 chromadb
 python-dotenv
 tiktoken
-
+fastapi
+uvicorn
+python-multipart
